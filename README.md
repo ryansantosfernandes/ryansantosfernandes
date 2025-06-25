@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá :pencil2: :blue_book:
 
-<!--
-**ryansantosfernandes/ryansantosfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Me chamo Ryan</h1>
+<h2>E sou estudande do DevClub</h2>
 
-Here are some ideas to get you started:
+Atualmente, Aprendi os módulos de
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+ 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+ [![ Ryan stats](https://github-readme-stats.vercel.app/api?username=ryansantosfernandes)](https://github.com/anuraghazra/github-readme-stats)
+ <br>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansantosfernandes)](https://github.com/anuraghazra/github-readme-stats)
+
