@@ -9,6 +9,11 @@ Atualmente, Aprendi os módulos de
  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
- ![Ryan stats](https://github-readme-stats.vercel.app/api?username=ryansantosfernandes_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansantosfernandes)](https://github.com/anuraghazra/github-readme-stats)
+![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryansantosfernandes&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryansantosfernandes&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
