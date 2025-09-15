@@ -1,7 +1,7 @@
-Olá
+<h1>Olá!</h1>
 
-<h1>Me chamo Ryan</h1>
-<h2>E sou estudande do DevClub :pencil2: :blue_book: </h2>
+<h2>Me chamo Ryan</h1>
+<h3>E sou estudande do DevClub :pencil2: :blue_book: </h2>
 
 Atualmente, Aprendi os módulos de
 
